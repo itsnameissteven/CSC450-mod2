@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/P3053916/school/CSC450/mod2/critical_thinking/string_concatination/concatination'
+binary-path:     '/Users/P3053916/school/CSC450/mod2/critical_thinking/string_concatination/concatenation'
 relocations:
   - { offsetInCU: 0x2ED4, offset: 0x2ED4, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0xB30, symBinAddr: 0x100001080, symSize: 0x1F0 }
   - { offsetInCU: 0x3DCD, offset: 0x3DCD, size: 0x8, addend: 0x0, symName: __ZNSt3__16copy_nB8ue170006IPKcmPcEENS_9enable_ifIXsr37__has_random_access_iterator_categoryIT_EE5valueET1_E4typeES5_T0_S6_, symObjAddr: 0x2000, symBinAddr: 0x100002550, symSize: 0x40 }
